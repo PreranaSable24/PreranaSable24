@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prerana Sable</h1>
-<h3 align="center">I'm a dedicated computer science engineer with a passion for solving problems through innovative technology solutions, I have successfully completed internships from Anudip Foundation and ExcelR</h3>
+<h3 align="center">I'm a dedicated computer science engineer with a passion for solving problems through innovative technology solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e47lm49gp78p7zwa6vzhpvvinie0coj782i4jrqzmzl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I completed **Btech in Computer Science and Engineering.**
+
+- Internship completed: **1. Anudip Foundation** **2. ExcelR**
 
 - 📫 How to reach me **preranasable15@gmail.com**
 
