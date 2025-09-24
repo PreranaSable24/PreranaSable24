@@ -5,8 +5,6 @@
 
 - 🌱 I completed **Btech in Computer Science and Engineering.**
 
-- Internship Completed **1. Anudip Foundation** **2. ExcelR**
-
 - 📫 How to reach me **preranasable15@gmail.com**
 
 - ⚡ Fun fact **I think i am funny & friendly.**
